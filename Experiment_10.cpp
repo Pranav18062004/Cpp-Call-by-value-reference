@@ -31,3 +31,13 @@ int main() {
 
     return 0;
 }
+
+/*
+OUTPUT:
+Before swapping:
+num1 = 5, num2 = 10
+Inside swapByValue:
+a = 10, b = 5
+After swapping using call by value:
+num1 = 5, num2 = 10
+*/
